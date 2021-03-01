@@ -106,3 +106,9 @@ h3 {
 .education-content {
     margin-bottom: 20px;
 }
+
+.udemy-certificate a {
+    text-decoration: none;
+    color: #ff6b08;
+    margin-left: 10px;
+}
